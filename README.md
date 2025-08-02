@@ -191,8 +191,3 @@ Videossa esitellään:
 
 Projektissa harjoitellaan backend-kehitystä, SQL-taitoja ja REST API:n rakentamista käytännössä.
 
----
-
-## 📃 Lisenssi
-
-Harjoitustyö. Vapaa käyttää ja muokata opetustarkoituksiin.
