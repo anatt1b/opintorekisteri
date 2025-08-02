@@ -18,7 +18,7 @@ Tiedot tallennetaan **MySQL-tietokantaan** ja sovellusta käytetään **HTTP-raj
 - Luotiin **ER-kaavio** (Entiteetti-suhdekaavio), joka kertoo, miten taulut liittyvät toisiinsa:
   - Yhdellä opiskelijalla voi olla monta arviointia.
   - Yhdellä kurssilla voi olla monta arviointia.
-- Suunniteltiin **tallennettu proseduurit** (stored procedures), joilla voidaan lisätä tietoja hallitusti ja tarkistaa esimerkiksi, että arvosana on sallitulla välillä (0–5).
+- Suunniteltiin **tallennettu proseduuri** (stored procedures), jolla voidaan lisätä tietoja hallitusti ja tarkistaa esimerkiksi, että arvosana on sallitulla välillä (0–5).
 
 ---
 
