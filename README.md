@@ -186,7 +186,7 @@ GET /api/arvioinnit
 Videossa esitellään:
 
 - Tietokantarakenne ja ER-kaavio
-- SQL-lauseet ja proseduurit
+- Proseduurit
 - Sovelluksen toiminta Node/Expressillä
 - Postman-testaus
 
