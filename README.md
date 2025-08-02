@@ -10,6 +10,12 @@ Tiedot tallennetaan **MySQL-tietokantaan** ja sovellusta käytetään **HTTP-raj
 
 ---
 
+## 📽️ Esittelyvideo
+
+👉 [YouTube: Opintorekisteri API -esittelyvideo](https://youtu.be/Ho16H-3re7k)
+
+---
+
 ## 🧠 Mitä tässä projektissa on tehty?
 
 ### ✅ 1. Suunnittelu
@@ -169,10 +175,9 @@ GET /api/arvioinnit
 
 ## 🧪 CRUD-operaatiot
 
-- **Create (POST)** → lisää tietoa
-- **Read (GET)** → hae tietoa
-- **Update (PUT)** → ei käytössä
-- **Delete (DELETE)** → ei käytössä
+- **Create** – POST
+- **Read** – GET
+- **Delete** – DELETE käytössä **opiskelijoissa ja kursseissa**
 
 ---
 
